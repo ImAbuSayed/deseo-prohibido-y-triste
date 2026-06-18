@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Deseo prohibido y triste
+
+This log tracks the cryptographic history and versioning for the song **Deseo prohibido y triste** (deseo-prohibido-y-triste).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-19T02:34:53.471452 | `v1` | `526e4b339efeae02454ad11fddef2dc5e93562499dc3044c2dca67dda0e52d49` | `59277202a18a253c891e05f064aec7efe39fa955fc576748dd8ce86b369a68bb` | `2026-06-19_deseo-prohibido-y-triste-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/deseo-prohibido-y-triste/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Deseo prohibido y triste](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deseo-prohibido-y-triste/) |
+| **Get License** | [Get License For Deseo prohibido y triste](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deseo-prohibido-y-triste/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `526e4b339efeae02454ad11fddef2dc5e93562499dc3044c2dca67dda0e52d49` |
 | **Timestamp** | June 19, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
