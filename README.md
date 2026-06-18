@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/deseo-prohibido-y-triste/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Deseo prohibido y triste](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deseo-prohibido-y-triste/) |
+| **Get License** | [Music Rights & Licensing for Deseo prohibido y triste](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deseo-prohibido-y-triste/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Me miras de lejos y duele la tentación
+> Tus labios me llaman rompiendo mi corazón
+> Un deseo prohibido en la barra del local
+> Saber que te vas me hace sentir tan mal
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
